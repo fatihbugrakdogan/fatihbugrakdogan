@@ -44,12 +44,3 @@ I love turning AI research concepts into usable software and intuitive developer
 `AWS` `RAILWAY`  
   
 
----
-
-## 📌 Featured Project
-
-### 🧪 Inference Arena — Benchmarking LLM Engines  
-🔗 https://github.com/firstbatchxyz/inference-arena
-
-A framework for benchmarking and comparing inference performance across LLM models, engines, and hardware setups.  
-It enables logging, analysis, and comparison of metrics such as throughput, latency, and concurrency to support data-driven LLM stack decisions.
