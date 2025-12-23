@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Fatih Buğra Akdoğan
 
 I'm an **AI Product Engineer** and **Full-Stack Developer** building scalable AI-driven products and tools.  
+
 I focus on **LLM systems, inference pipelines, benchmarking, and end-to-end product delivery**.
 
 I love turning AI research concepts into usable software and intuitive developer experiences.  
@@ -9,11 +10,11 @@ I love turning AI research concepts into usable software and intuitive developer
 
 ## 🚀 About Me
 
-- 🤖 Building AI / LLM-powered products and benchmarks
-- 🧠 Strong focus on **LLM system design, evaluation, benchmarking, and production readiness**
-- 🧩 Experienced in full-stack web & API development
-- 📊 Product analytics and growth-oriented delivery mindset  
-- 🌱 Currently exploring **advanced LLM engineering methods & real-world AI products**
+- Building AI / LLM-powered products and benchmarks
+- Focus on **LLM system design, evaluation, benchmarking, and production readiness**
+- Experienced in full-stack web & API development
+- Product analytics and growth-oriented  
+- Currently exploring **advanced LLM engineering methods & real-world AI products**
 
 ---
 
