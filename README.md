@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fatih Buğra Akdoğan
+# Hi, I'm Fatih Buğra Akdoğan
 
 I'm an **AI Product Engineer** and **Full-Stack Developer** building scalable AI-driven products and tools.  
 
@@ -8,7 +8,7 @@ I love turning AI research concepts into usable software and intuitive developer
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Building AI / LLM-powered products and benchmarks
 - Focus on **LLM system design, evaluation, benchmarking, and production readiness**
@@ -18,7 +18,7 @@ I love turning AI research concepts into usable software and intuitive developer
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### AI / LLM Engineering
 `OpenAI` `LLMs` `Embeddings` 
