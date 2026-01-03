@@ -1,4 +1,4 @@
-# Hi, I'm Fatih Buğra Akdoğan
+# Hi, I'm Fatih Buğra
 
 I'm an **AI Product Engineer** and **Full-Stack Developer** building scalable AI-driven products and tools.  
 
